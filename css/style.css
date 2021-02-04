@@ -139,7 +139,6 @@ img {
 .hero-section .title {
   margin-top: 0;
   margin-bottom: 35px;
-  padding-top: 195px;
 
   color: var(--white-color);
   font-weight: 900;
@@ -161,7 +160,8 @@ img {
   letter-spacing: 0.06em;
 }
 
-.hero-link {
+.hero-cont {
+  padding-top: 195px;
   padding-bottom: 200px;
 }
 
