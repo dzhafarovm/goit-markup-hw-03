@@ -374,13 +374,10 @@ img {
   margin-top: var(--card-set-gap);
 }
 
-.card {
-  border: 1px solid var(--portfolio-card);
-  overflow: hidden;
-  border-radius: 20px;
-}
-
 .card-cont {
+  border-right: 1px solid var(--portfolio-card);
+  border-left: 1px solid var(--portfolio-card);
+  border-bottom: 1px solid var(--portfolio-card);
   padding: 20px 24px;
 }
 
