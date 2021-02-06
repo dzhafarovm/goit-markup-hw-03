@@ -333,6 +333,7 @@ img {
 /* Кнопки */
 .btn {
   padding: 6px 22px;
+  border: none;
   border-radius: 4px;
 
   color: var(--primary-text-color);
