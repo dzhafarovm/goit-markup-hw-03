@@ -353,7 +353,7 @@ img {
 .radio-btn {
   display: flex;
   justify-content: center;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .radio-btn .item + .item {
